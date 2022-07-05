@@ -1,20 +1,20 @@
 # technical-summary
 
-## <font color='green'>Computer Science</font>
+## Computer Science
 
-### <font color="orange">OS</font>
+### OS
 
 - [운영체제의 개념](OS/1.%20운영체제%20개념.md)
 - [운영체제의 종류](OS/2.%20운영체제의%20종류.md)
 
-### <font color="orange">Database</font>
+### Database
 
-### <font color="orange">Network</font>
+### Network
 
-### <font color="orange">Development</font>
+### Development
 
-## <font color='green'>Programming Language</font>
+## Programming Language
 
-### <font color="orange">Javascript/Typescript</font>
+### Javascript/Typescript
 
-### <font color="orange">Python</font>
+### Python

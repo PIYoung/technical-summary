@@ -18,6 +18,24 @@
 
 ## Programming Language
 
-### Javascript/Typescript
+### Javascript
+
+### Typescript
 
 ### Python
+
+### C\#
+
+## AI
+
+### Machine Learning
+
+### Deep Learning
+
+## Mathematics
+
+### 이산수학
+
+### 선형대수
+
+### 통계학
